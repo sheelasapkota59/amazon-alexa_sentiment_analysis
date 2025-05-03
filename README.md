@@ -36,7 +36,7 @@ Alternatively, you can run the notebook on platforms like Google Colab or Kaggle
     README.md : This file.
 
 📊 Results and Evaluation
-    Achieved accuracy of approximately [insert your accuracy]% on the test set.
+    Achieved accuracy of approximately 90% on the test set.
     The model effectively distinguishes positive and negative reviews based on textual data.
     Training and validation loss and accuracy plots are included in the notebook.
 
